@@ -1,0 +1,20 @@
+#intro-header{
+    background: #273046;
+    padding: 20px;
+    border-bottom: 5px solid #2FB62F;
+}
+#header-icon{
+    width: 125px;
+    height: 125px;
+    border-radius: 100px;
+    display:block; 
+    margin:auto;
+    box-shadow: 1px 5px 5px rgba(0, 0, 0, 0.7);
+    cursor: pointer;
+}
+.header-name{
+    margin-top: 15px;
+    text-align: center;
+    color: #fff;
+    font-family: 'Montserrat', sans-serif;
+}
